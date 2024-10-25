@@ -1,0 +1,12 @@
+3rd year software engineering student side project.
+The main goal of this project is actualy to learn different concepts regarding ML, AI and GIT usage which i feel missing in my degree studies.
+
+Eventualy this whole project goal is to create an AI model that inputs keywords from user and outputs a MIDI file, which is a track that the model cretead.
+
+I'm going to keep this project as organized and documented as i can. this log here will help myself not lose the way as this project grows.
+
+
+25/10/2024 -- 
+Setting up folder structure and upload to GitHub. (In Progress)
+
+
